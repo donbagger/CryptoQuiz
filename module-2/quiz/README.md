@@ -1,1 +1,0 @@
-“metana-fullstack-bootcamp”
